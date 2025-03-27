@@ -1,4 +1,4 @@
-![蓝屏](Lanping.png)
+![蓝屏](mygoop图.png)
 ## Hi there 👋
 ## 你好 👋
 <!--
