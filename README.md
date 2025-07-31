@@ -1,4 +1,5 @@
 ![蓝屏](tokisaki-kurumi.gif)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godblf&layout=compact&theme=radical)
 ## Hi there 👋
 ## 你好 👋
 <!--
@@ -6,7 +7,6 @@
 
 Here are some ideas to get you started:
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godblf&layout=compact&theme=radical)
 ## My name is Xuehao Xu.I am an undergraduate student at Xiamen University.
 ## 我叫徐学昊,是厦大的一名本科生.
 - [Blog](https://godblf.blogspot.com/) This is my blog
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Algorithm , Java , C and Math.
 - 👯 I’m looking to collaborate on open projects
 - 📫 How to reach me: Email:yyilin969@gmail.com  Telegram: https://t.me/GodBlfBot  Discord: godblf969
-- 😇 My username of discord is 'godblf',you can play with me by discord or steam together. let's be happy !!
 - [[[[[staple]]]]]
 
 
