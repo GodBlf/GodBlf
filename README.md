@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - [部落格](https://godblf.github.io/) 这是我的博客
 - 🌱 I’m currently learning golang , java , CLIs
 - 👯 I’m looking to collaborate on open projects
-- 📫 How to reach me: Email:yyilin969@gmail.com X or Twitter: @Aurora747353
+- 📫 How to reach me: Email:yyilin969@gmail.com X or Twitter: [@Aurora747353](https://x.com/Aurora747353)
   Telegram: https://t.me/GodBlfBot  Discord: godblf969
 - [[[[[staple]]]]]
 
