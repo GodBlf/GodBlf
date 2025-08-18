@@ -9,9 +9,9 @@ Here are some ideas to get you started:
 -->
 ## My name is Xuehao Xu.I am an undergraduate student at Xiamen University.
 ## 我叫徐学昊,是厦大的一名本科生.
-- [Blog](https://godblf.blogspot.com/) This is my blog
-- [部落格](https://godblf.blogspot.com/) 这是我的博客
-- 🌱 I’m currently learning Algorithm , Java , C and Math.
+- [Blog](https://godblf.github.io/) This is my blog
+- [部落格](https://godblf.github.io/) 这是我的博客
+- 🌱 I’m currently learning golang , java , CLIs
 - 👯 I’m looking to collaborate on open projects
 - 📫 How to reach me: Email:yyilin969@gmail.com  Telegram: https://t.me/GodBlfBot  Discord: godblf969
 - [[[[[staple]]]]]
