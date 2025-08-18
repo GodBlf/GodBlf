@@ -1,4 +1,4 @@
-![蓝屏](tokisaki-kurumi.gif)
+<!--![蓝屏](tokisaki-kurumi.gif)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godblf&layout=compact&theme=radical)
 ## Hi there 👋
 ## 你好 👋
