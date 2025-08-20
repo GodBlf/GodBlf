@@ -33,6 +33,27 @@ Here are some ideas to get you started:
 
 </div>
 
+<!-- 技术栈图标 -->
+<p align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Linux" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=maven" alt="Linux" width="40" height="40" />
+  
+  <img src="https://skillicons.dev/icons?i=redis" alt="Linux" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" /> 
+</p>
+
 
 
 
