@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 (我叫徐学昊,是厦大的一名本科生.)
 - [Blog](https://godblf.github.io/) This is my blog ([部落格](https://godblf.github.io/) 这是我的博客)
 
-- I’m currently learning golang , java , CLIs
+- I’m currently learning ai-agent , eino , golang , java , vue
 
 </div>
 
