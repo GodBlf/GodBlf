@@ -2,9 +2,14 @@
 
   <div align="center">
     
-  ## Hi there 👋 (你好 👋)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godblf&layout=compact&theme=radical)
+
+# Hi there 👋 
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Gopher%20in%20Training;Backend%20Developer;Building%20High-Performance%20Systems&font=Fira%20Code&center=true&width=500&height=50">
+</div>
+
+
 
 <!--
 **GodBlf/GodBlf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,9 +18,8 @@ Here are some ideas to get you started:
 -->
 ## My name is Xuehao Xu.I am an undergraduate student at Xiamen University. 
 (我叫徐学昊,是厦大的一名本科生.)
-- [Blog](https://godblf.github.io/) This is my blog ([部落格](https://godblf.github.io/) 这是我的博客)
 
-- I’m currently learning ai-agent , eino , golang , java , vue
+### I’m currently learning go
 
 </div>
 
@@ -24,35 +28,25 @@ Here are some ideas to get you started:
 ## 📫 How to reach me (联系方式)
 
   
-- Email:yyilin969@gmail.com
-- X or Twitter: [@Aurora747353](https://x.com/Aurora747353)
-- Telegram: [telegram_bot](https://t.me/GodBlfBot)
-- Discord: godblf969
+- **Email:yyilin969@gmail.com**
+- **X or Twitter: [@Aurora747353](https://x.com/Aurora747353)**
+- **Telegram: [telegram_bot](https://t.me/GodBlfBot)**
+- **Discord: godblf969**
 
 
 
 </div>
+<div align="center">
 
-<!-- 技术栈图标 -->
-<p align="center">
-  <br>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Linux" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=maven" alt="Linux" width="40" height="40" />
-  
-  <img src="https://skillicons.dev/icons?i=redis" alt="Linux" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Golang" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="40" height="40" />
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="40" height="40" /> 
-</p>
+### 🛠 Technologies & Tools
+<div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=go,java" alt="languages" height="80" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions" alt="devops" height="80" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="databases" height="80" />
+  <img src="https://skillicons.dev/icons?i=git,maven,prometheus,kafka" alt="tools" height="80" />
+</div>
+
+</div>
 
 
 
