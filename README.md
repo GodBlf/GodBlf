@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## 📫 How to reach me (联系方式)
 
   
-- **Email:yyilin969@gmail.com/godblf969@gmail.com**
+- **Email:yyilin969@gmail.com**
 - **Telegram: [telegram_bot](https://t.me/GodBlfBot)**
 - **Discord: godblf969**
 
