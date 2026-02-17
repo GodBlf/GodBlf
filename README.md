@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Gopher+in+Training;Backend+Developer;Building+High-Performance+Systems&font=Fira+Code&center=true&width=500&height=50&size=30&weight=700">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Gopher+in+Training;Backend+Developer;Building+High-Performance+Systems&font=Fira+Code&center=true&width=700&height=50&size=30&weight=700">
 </div>
 
 
