@@ -5,8 +5,10 @@
 
 # Hi there 👋 
 
+<br>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Gopher%20in%20Training;Backend%20Developer;Building%20High-Performance%20Systems&font=Fira%20Code&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Gopher+in+Training;Backend+Developer;Building+High-Performance+Systems&font=Fira+Code&center=true&width=500&height=50&size=30&weight=700">
 </div>
 
 
@@ -16,11 +18,12 @@
 
 Here are some ideas to get you started:
 -->
-## My name is Xuehao Xu.I am an undergraduate student at Xiamen University. 
-(我叫徐学昊,是厦大的一名本科生.)
+## My name is Xuehao Xu(徐学昊).I am an undergraduate student at Xiamen University. 
 
-### I’m currently learning go
 
+## I’m currently learning go , ts and CS
+
+## This is my [Blog](https://godblf.github.io)
 </div>
 
 <div align="center">
