@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## My name is Xuehao Xu(徐学昊).I am an undergraduate student at Xiamen University. 
 
 
-## I’m currently learning go , ts and CS
+## I’m currently learning rust and agent
 
 ## This is my [Blog](https://godblf.github.io)
 </div>
