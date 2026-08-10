@@ -8,7 +8,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Gopher+in+Training;Backend+Developer;Building+High-Performance+Systems&font=Fira+Code&center=true&width=700&height=50&size=30&weight=700">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Rust;Building+AI+Agents;Go+Developer&font=Fira+Code&center=true&width=700&height=50&size=30&weight=700">
 </div>
 
 
@@ -42,10 +42,10 @@ Here are some ideas to get you started:
 
 ### 🛠 Technologies & Tools
 <div style="display: flex; align-items: flex-start; flex-wrap: wrap;">
-  <img src="https://skillicons.dev/icons?i=go,java" alt="languages" height="80" />
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions" alt="devops" height="80" />
+  <img src="https://skillicons.dev/icons?i=rust,go,ts" alt="languages" height="80" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,vscode" alt="devops" height="80" />
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="databases" height="80" />
-  <img src="https://skillicons.dev/icons?i=git,maven,prometheus,kafka" alt="tools" height="80" />
+  <img src="https://skillicons.dev/icons?i=git,prometheus,kafka" alt="tools" height="80" />
 </div>
 
 </div>
