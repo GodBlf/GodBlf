@@ -3,8 +3,7 @@
 # Hi, I'm Xuehao Xu 👋
 
 I'm Xuehao Xu (徐学昊), an undergraduate at Xiamen University.
-
-<br>
+I'm interested in open-source AI agent projects.
 
 ## Open Source
 
@@ -25,7 +24,7 @@ I'm Xuehao Xu (徐学昊), an undergraduate at Xiamen University.
   </tr>
 </table>
 
-I'm interested in open-source AI agent projects.
+
 
 ## Tech & Tools
 
