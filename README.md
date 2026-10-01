@@ -9,7 +9,7 @@
 
 <hr />
 
-## Open Source
+### Open Source
 
 <table>
   <tr>
@@ -38,9 +38,9 @@
   </tr>
 </table>
 
+<hr />
 
-
-## Tech & Tools
+### Tech & Tools
 
 **Languages**
 
@@ -54,6 +54,8 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
 
-## Find Me
+<hr />
+
+### Find Me
 
 [Blog](https://godblf.github.io) · [Email](mailto:yyilin969@gmail.com) · [Telegram](https://t.me/GodBlfBot) · Discord: `godblf969`
