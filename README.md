@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Rust;Exploring+AI+Agents;Building+with+Go&amp;font=Fira+Code&amp;center=false&amp;vCenter=true&amp;width=280&amp;height=40&amp;size=20&amp;weight=500&amp;duration=3000&amp;pause=1000&amp;color=00ADD8&amp;background=00000000" alt="Learning Rust · Exploring AI Agents · Building with Go" width="280" height="40" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Rust;Exploring+AI+Agents;Building+with+Go&amp;font=Fira+Code&amp;center=false&amp;vCenter=true&amp;width=280&amp;height=40&amp;size=20&amp;weight=500&amp;duration=3000&amp;pause=1000&amp;color=00ADD8" alt="Learning Rust · Exploring AI Agents · Building with Go" width="280" height="40" />
 
 # Hi, I'm Xuehao Xu 👋
 
@@ -7,17 +7,32 @@ I'm interested in open-source AI agent projects.
 
 ## Open Source
 
-<div>
-  <h3><a href="https://github.com/bytedance/deer-flow">DeerFlow</a> <a href="https://github.com/bytedance/deer-flow"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&color=yellow" alt="DeerFlow stars" /></a></h3>
-  <p>Contributing to DeerFlow while exploring AI agents.</p>
-  <p><a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="DeerFlow merged PRs" /></a> <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a></p>
-</div>
-
-<div>
-  <h3><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a> <a href="https://github.com/opensandbox-group/OpenSandbox"><img src="https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&color=yellow" alt="OpenSandbox stars" /></a></h3>
-  <p>Contributing to OpenSandbox and learning about sandbox infrastructure.</p>
-  <p><a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aopensandbox-group%2FOpenSandbox%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="OpenSandbox merged PRs" /></a> <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a></p>
-</div>
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Merged PRs</th>
+  </tr>
+  <tr>
+    <td align="left">
+      <h3><a href="https://github.com/bytedance/deer-flow">DeerFlow</a> <a href="https://github.com/bytedance/deer-flow"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&color=yellow" alt="DeerFlow stars" /></a></h3>
+      <p>Contributing to DeerFlow while exploring AI agents.</p>
+    </td>
+    <td align="left">
+      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="DeerFlow merged PRs" /></a><br />
+      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <h3><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a> <a href="https://github.com/opensandbox-group/OpenSandbox"><img src="https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&color=yellow" alt="OpenSandbox stars" /></a></h3>
+      <p>Contributing to OpenSandbox and learning about sandbox infrastructure.</p>
+    </td>
+    <td align="left">
+      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aopensandbox-group%2FOpenSandbox%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="OpenSandbox merged PRs" /></a><br />
+      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a>
+    </td>
+  </tr>
+</table>
 
 
 
