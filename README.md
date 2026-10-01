@@ -1,9 +1,13 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Rust;Exploring+AI+Agents;Building+with+Go&amp;font=Fira+Code&amp;center=false&amp;vCenter=true&amp;width=280&amp;height=40&amp;size=20&amp;weight=500&amp;duration=3000&amp;pause=1000&amp;color=00ADD8&amp;background=00000000" alt="Learning Rust · Exploring AI Agents · Building with Go" width="280" height="40" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Rust;Exploring+AI+Agents;Building+with+Go&amp;font=Fira+Code&amp;center=true&amp;vCenter=true&amp;width=280&amp;height=40&amp;size=20&amp;weight=500&amp;duration=3000&amp;pause=1000&amp;color=00ADD8" alt="Learning Rust · Exploring AI Agents · Building with Go" width="280" height="40" />
+</p>
 
-# Hi, I'm Xuehao Xu 👋
+<h1 align="center">Hi, I'm Xuehao Xu 👋</h1>
 
-I'm Xuehao Xu (徐学昊), an undergraduate at Xiamen University (厦门大学).
-I'm interested in open-source AI agent projects.
+<p align="center">I'm Xuehao Xu (徐学昊), an undergraduate at Xiamen University (厦门大学).</p>
+<p align="center">I'm interested in open-source AI agent projects.</p>
+
+<hr />
 
 ## Open Source
 
