@@ -14,27 +14,31 @@
 <table>
   <tr>
     <th align="left">Project</th>
+    <th align="left">Org</th>
     <th align="left">Merged PRs</th>
+    <th align="left">About</th>
   </tr>
   <tr>
     <td align="left">
       <h3><a href="https://github.com/bytedance/deer-flow">DeerFlow</a> <a href="https://github.com/bytedance/deer-flow"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&color=yellow" alt="DeerFlow stars" /></a></h3>
-      <p>Contributing to DeerFlow while exploring AI agents.</p>
     </td>
+    <td align="left">ByteDance</td>
     <td align="left">
       <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="DeerFlow merged PRs" /></a><br />
       <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a>
     </td>
+    <td align="left">AI agent framework for complex tasks</td>
   </tr>
   <tr>
     <td align="left">
       <h3><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a> <a href="https://github.com/opensandbox-group/OpenSandbox"><img src="https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&color=yellow" alt="OpenSandbox stars" /></a></h3>
-      <p>Contributing to OpenSandbox and learning about sandbox infrastructure.</p>
     </td>
+    <td align="left">Alibaba Cloud</td>
     <td align="left">
       <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aopensandbox-group%2FOpenSandbox%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="OpenSandbox merged PRs" /></a><br />
       <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a>
     </td>
+    <td align="left">Sandbox platform for AI applications</td>
   </tr>
 </table>
 
