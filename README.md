@@ -16,31 +16,50 @@
     <th align="left">Project</th>
     <th align="left">Org</th>
     <th align="left">Merged PRs</th>
-    <th align="left">About</th>
   </tr>
   <tr>
     <td align="left">
-      <a href="https://github.com/bytedance/deer-flow">DeerFlow</a><br/><br/>
-      <a href="https://github.com/bytedance/deer-flow"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&color=yellow" alt="DeerFlow stars" /></a>
+      <a href="https://github.com/bytedance/deer-flow"><img src="https://github.com/bytedance.png?size=48" width="24" height="24" alt="ByteDance logo" />&nbsp;<strong>DeerFlow</strong></a>&nbsp;<a href="https://github.com/bytedance/deer-flow"><img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat-square&color=yellow" alt="DeerFlow stars" /></a><br />
+      <sub>AI agent framework for complex tasks</sub>
     </td>
     <td align="left">ByteDance</td>
     <td align="left">
-      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a><br /><br />
-      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="DeerFlow merged PRs" /></a>
+      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Abytedance%2Fdeer-flow%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="DeerFlow merged PRs" /></a><br />
+      <a href="https://github.com/bytedance/deer-flow/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a>
     </td>
-    <td align="left">AI agent framework for complex tasks</td>
   </tr>
   <tr>
     <td align="left">
-      <a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a><br/><br/>
-      <a href="https://github.com/opensandbox-group/OpenSandbox"><img src="https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&color=yellow" alt="OpenSandbox stars" /></a>
+      <a href="https://github.com/opensandbox-group/OpenSandbox"><img src="https://github.com/opensandbox-group.png?size=48" width="24" height="24" alt="OpenSandbox logo" />&nbsp;<strong>OpenSandbox</strong></a>&nbsp;<a href="https://github.com/opensandbox-group/OpenSandbox"><img src="https://img.shields.io/github/stars/opensandbox-group/OpenSandbox?style=flat-square&color=yellow" alt="OpenSandbox stars" /></a><br />
+      <sub>Sandbox platform for AI applications</sub>
     </td>
     <td align="left">Alibaba Cloud</td>
     <td align="left">
-      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a><br /><br />
-      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aopensandbox-group%2FOpenSandbox%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="OpenSandbox merged PRs" /></a>
+      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aopensandbox-group%2FOpenSandbox%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="OpenSandbox merged PRs" /></a><br />
+      <a href="https://github.com/opensandbox-group/OpenSandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a>
     </td>
-    <td align="left">Sandbox platform for AI applications</td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/openclaw/openclaw"><img src="https://github.com/openclaw.png?size=48" width="24" height="24" alt="OpenClaw logo" />&nbsp;<strong>OpenClaw</strong></a>&nbsp;<a href="https://github.com/openclaw/openclaw"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=flat-square&color=yellow" alt="OpenClaw stars" /></a><br />
+      <sub>Personal AI assistant across operating systems and platforms</sub>
+    </td>
+    <td align="left">OpenClaw</td>
+    <td align="left">
+      <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Aopenclaw%2Fopenclaw%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="OpenClaw merged PRs" /></a><br />
+      <a href="https://github.com/openclaw/openclaw/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left">
+      <a href="https://github.com/superradcompany/microsandbox"><img src="https://github.com/superradcompany.png?size=48" width="24" height="24" alt="Super Rad logo" />&nbsp;<strong>microsandbox</strong></a>&nbsp;<a href="https://github.com/superradcompany/microsandbox"><img src="https://img.shields.io/github/stars/superradcompany/microsandbox?style=flat-square&color=yellow" alt="microsandbox stars" /></a><br />
+      <sub>Fast, programmable, local-first microVM runtime and library</sub>
+    </td>
+    <td align="left">Super Rad</td>
+    <td align="left">
+      <a href="https://github.com/superradcompany/microsandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged"><img src="https://img.shields.io/github/issues-search?query=repo%3Asuperradcompany%2Fmicrosandbox%20is%3Apr%20author%3AGodBlf%20is%3Amerged&label=merged%20PRs&color=00ADD8" alt="microsandbox merged PRs" /></a><br />
+      <a href="https://github.com/superradcompany/microsandbox/pulls?q=is%3Apr+author%3AGodBlf+is%3Amerged">My contributions →</a>
+    </td>
   </tr>
 </table>
 
